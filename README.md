@@ -1,9 +1,9 @@
 # Musical Battle
 
-![GitHub top language](https://img.shields.io/github/languages/top/FedeBayer/portfolio-BackEnd?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/FedeBayer/portfolio-BackEnd?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/FedeBayer/portfolio-BackEnd?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/FedeBayer/portfolio-BackEnd?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/FedeBayer/musicalBattle?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/FedeBayer/musicalBattle?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/FedeBayer/musicalBattle?style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/FedeBayer/musicalBattle?style=for-the-badge)
 
 ## Introduction
 
